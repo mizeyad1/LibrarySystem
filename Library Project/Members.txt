@@ -1,0 +1,8 @@
+ahmed,ibrahim,4501,14,roushdy,alex,01000147448,16,ahmed@gmail.com
+omar,ibrahim,4502,15,smouha,alex,01000147449,16,omar@gmail.com
+john,hany,4502,16,mansheya,alex,01000247447,16,john@gmail.com
+mark,eshaq,4503,17,agamy,alex,01000747447,16,manal@gmail.com
+manal,ibrahim,4504,18,abdelnaser,alex,01020147447,16,mona@gmail.com
+mona,ibrahim,4505,19,sorya,alex,01030147447,16,ibrahim@gmail.com
+amir,ibrahim,4506,20,flmng,alex,01040147447,16,zeyad@gmail.com
+zeyad,ibrahim,4736,14,admon,cairo,01232323,19,zeyad@gmail.com

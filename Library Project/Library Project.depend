@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1514063609 source:c:\users\dell-pc\desktop\library project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"myhead.h"
+
+1514062737 c:\users\dell-pc\desktop\library project\myhead.h
+
+1514112522 source:c:\users\dell-pc\desktop\faculty 2nd year\first semester\library project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	"myhead.h"
+
+1514112522 c:\users\dell-pc\desktop\faculty 2nd year\first semester\library project\myhead.h
+
